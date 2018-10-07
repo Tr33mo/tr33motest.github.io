@@ -1,0 +1,15 @@
+<head>
+  <!-- Stylesheet and favicon -->
+  <link rel="stylesheet" href="{{ site.url }}{{ site.css }}" />
+  <link rel="icon" type="image/x-icon" href="{{ site.url }}{{ site.favicon }}" />
+
+  <!-- Title -->
+  <title>
+    {% if page.title %}
+      {{page.title}}
+    {% else %}
+      {{ site.title }}
+    {% endif %}
+  </title>
+
+</head>

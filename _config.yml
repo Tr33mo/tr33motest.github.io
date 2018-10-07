@@ -1,0 +1,51 @@
+---
+title: Erosion QLD
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+plugins:
+- jekyll-paginate
+highlighter: rouge
+paginate: 4
+paginate_path: "/page:num/"
+icon: "/assets/img/vetavatar.png"
+favicon: "/assets/img/favicon.ico"
+#og_image: "/assets/img/og.jpg"
+lang: en
+description: Growing and supplying low-cost Vetiver Grass (Chrysopogon zizanioides) with advice for your small projects based on the Sunshine Coast Hinterland, Queensland, Australia
+url: https://tr33mo.github.io
+color: "#333333"
+baseurl: 
+css: "/assets/css/style.css"
+navigation:
+- name: Why Vetiver
+  url: "/why"
+  title: Why use Vetiver?
+  external: false
+- name: About
+  url: "/about"
+  title: About Erosion QLD
+  external: false
+- name: Contact
+  url: mailto:evan.millwood@gmail.com
+  title: Email me
+  external: false
+- name: Vetiver.org
+  url: http://www.vetiver.org/
+  title: Visit the official Vetiver website
+  external: true
+- name: Vetiver Facebook
+  url: https://www.facebook.com/groups/vetivernetwork/
+  title: Chat with other Vetiver users
+  external: true
+authors:
+- id: evan
+  name: Evan Millwood
+footer: Copyright © Evan Millwood 2018 |
+  <a href="https://neige-theme.com" target="_blank" rel="noopener">Neige Theme</a>
+  | Published with <a href="https://jekyllrb.com/" target="_blank" rel="noopener">Jekyll</a>

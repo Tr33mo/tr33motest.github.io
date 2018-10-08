@@ -10,6 +10,8 @@ collections:
     output: true
 plugins:
 - jekyll-paginate
+# Google Analytics
+google_analytics: UA-127140939-1
 highlighter: rouge
 paginate: 4
 paginate_path: "/page:num/"

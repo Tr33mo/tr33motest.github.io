@@ -11,7 +11,7 @@
       {{ site.title }}
     {% endif %}
   </title>
-  {% if site.google_analytics and jekyll.environment == 'production' %}
-  {% include analytics.html %}
-  {% endif %}
-</head>
+    {% if jekyll.environment == 'production' %}
+    {% include analytics.html %}
+    {% endif %}
+  </head>

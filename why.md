@@ -4,7 +4,7 @@ title: "Why Use Vetiver?"
 description: "Vetiver uses"
 ---
 <div style="text-align:center" markdown="1">
-[![alt text](https://i.imgur.com/dxTyr4Gl.jpg "A part of Erosion QLD's Nursery")](https://u.teknik.io/jJmsK.jpg)
+[![alt text](https://i.imgur.com/dxTyr4Gm.jpg "A part of Erosion QLD's Nursery")](https://u.teknik.io/jJmsK.jpg)
 </div>
 
 ___
@@ -32,9 +32,9 @@ An extensive range of applications in PDF form can be found [here](http://www.ve
 ___
 
 <div style="text-align:center" markdown="1">
-[![alt text](https://i.imgur.com/2fu1BsSl.jpg "A vigorous clump of Vetiver with post hole shovel for scale")](https://u.teknik.io/ULuyh.jpg)
+[![alt text](https://i.imgur.com/2fu1BsSm.jpg "A vigorous clump of Vetiver with post hole shovel for scale")](https://u.teknik.io/ULuyh.jpg)
 </div>
 
 <div style="text-align:center" markdown="1">
-[![alt text](https://i.imgur.com/O6DpEYAl.jpg "A vigorous clump of Vetiver cut and measured")](https://u.teknik.io/iKlDG.jpg)
+[![alt text](https://i.imgur.com/O6DpEYAm.jpg "A vigorous clump of Vetiver cut and measured")](https://u.teknik.io/iKlDG.jpg)
 </div>

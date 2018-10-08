@@ -2,6 +2,10 @@
   <!-- Stylesheet and favicon -->
   <link rel="stylesheet" href="{{ site.url }}{{ site.css }}" />
   <link rel="icon" type="image/x-icon" href="{{ site.url }}{{ site.favicon }}" />
+  {% if site.google_analytics and jekyll.environment == 'production' %}
+  {% include analytics.html %}
+  {% endif %}
+
 
   <!-- Title -->
   <title>

@@ -29,6 +29,10 @@ navigation:
   url: "/why"
   title: Why use Vetiver?
   external: false
+- name: Propagation Guide
+  url: "https://u.teknik.io/l8IcH.pdf"
+  title: Vetiver Propagation Guide for the subtropics
+  external: true
 - name: About
   url: "/about"
   title: About Erosion QLD
@@ -38,11 +42,11 @@ navigation:
   title: Email me
   external: false
 - name: Vetiver.org
-  url: http://www.vetiver.org/
+  url: "http://www.vetiver.org/"
   title: Visit the official Vetiver website
   external: true
 - name: Vetiver Facebook
-  url: https://www.facebook.com/groups/vetivernetwork/
+  url: "https://www.facebook.com/groups/vetivernetwork/"
   title: Chat with other Vetiver users
   external: true
 authors:

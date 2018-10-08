@@ -2,7 +2,7 @@
 layout: post
 date: 2018-10-06
 title: "Greywater with Vetiver in a reed bed system"
-description: "Getting creative with Vetiver"
+description: "Small scale greywater treatment with BioChar"
 author: evan
 ---
 <div style="text-align:center" markdown="1">

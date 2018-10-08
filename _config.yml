@@ -20,8 +20,8 @@ lang: en
 description: Growing and supplying low-cost Vetiver Grass (Chrysopogon zizanioides) with advice for your small projects based on the Sunshine Coast Hinterland, Queensland, Australia. <br /><br />Click the blog post titles or top menu to find out more.
 url: http://www.erosionqld.com.au
 color: "#333333"
-baseurl: ""
-css: "{{ site.baseurl }}/assets/css/style.css"
+#baseurl: ""
+css: "/assets/css/style.css"
 navigation:
 - name: Why Vetiver
   url: "/why"

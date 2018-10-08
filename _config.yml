@@ -17,8 +17,8 @@ icon: "/assets/img/vetavatar.png"
 favicon: "/assets/img/favicon.ico"
 #og_image: "/assets/img/og.jpg"
 lang: en
-description: Growing and supplying low-cost Vetiver Grass (Chrysopogon zizanioides) with advice for your small projects based on the Sunshine Coast Hinterland, Queensland, Australia
-url: https://tr33mo.github.io
+description: Growing and supplying low-cost Vetiver Grass (Chrysopogon zizanioides) with advice for your small projects based on the Sunshine Coast Hinterland, Queensland, Australia. <br /><br />Click the blog post titles or top menu to find out more.
+url: http://www.erosionqld.com.au/
 color: "#333333"
 baseurl: 
 css: "/assets/css/style.css"
@@ -49,3 +49,4 @@ authors:
 footer: Copyright © Evan Millwood 2018 |
   <a href="https://neige-theme.com" target="_blank" rel="noopener">Neige Theme</a>
   | Published with <a href="https://jekyllrb.com/" target="_blank" rel="noopener">Jekyll</a>
+  | <a href="http://www.users.on.net/~evan.millwood/seqlderosion/" target="_blank" rel="noopener">Old Site</a>

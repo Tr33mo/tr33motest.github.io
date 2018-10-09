@@ -1,4 +1,8 @@
 <head>
+  {% if jekyll.environment == 'production' %}
+  {% include analytics.html %}
+  {% endif %}
+	
   <!-- Stylesheet and favicon -->
   <link rel="stylesheet" href="{{ site.url }}{{ site.css }}" />
   <link rel="icon" type="image/x-icon" href="{{ site.url }}{{ site.favicon }}" />
@@ -11,7 +15,5 @@
       {{ site.title }}
     {% endif %}
   </title>
-    {% if jekyll.environment == 'production' %}
-    {% include analytics.html %}
-    {% endif %}
+    
   </head>

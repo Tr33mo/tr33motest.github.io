@@ -13,7 +13,7 @@ plugins:
 # Google Analytics
 google_analytics: UA-127140939-1
 highlighter: rouge
-paginate: 4
+paginate: 5
 paginate_path: "/page:num/"
 icon: "/assets/img/vetavatar.png"
 favicon: "/assets/img/favicon.ico"

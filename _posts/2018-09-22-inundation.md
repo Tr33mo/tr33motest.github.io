@@ -9,6 +9,8 @@ Recently posted on the [Vetiver Facebook Group](https://www.facebook.com/groups/
 
 <a href="https://www.facebook.com/groups/vetivernetwork/permalink/10155820032967760/" target="_blank">Anecdotally</a>, the Vetiver here on the Sunshine Coast during the wet season of late 2017/early 2018 resulted in our barely established Vetiver suffering inundation for several months, off and on; the longest period being 3 months. The Vetiver had been planted in a disused Water Chestnut paddy.
 
+Update (16/10/2018): Record October rains have occurred and the Vetiver is underwater again: <a href="https://www.facebook.com/groups/vetivernetwork/permalink/10156727977487760/" target="_blank">Facebook Link</a> for photos.
+
 <div style="text-align:center" markdown="1">
 [![alt text](https://i.imgur.com/toamnDsl.jpg "Inundated Vetiver")](https://u.teknik.io/lvVEj.jpg)
 </div>

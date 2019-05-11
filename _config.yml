@@ -30,9 +30,9 @@ navigation:
   title: Why use Vetiver?
   external: false
 - name: Propagation Guide
-  url: "https://u.teknik.io/l8IcH.pdf"
+  url: "/prop"
   title: Vetiver Propagation Guide for the subtropics
-  external: true
+  external: false
 - name: About
   url: "/about"
   title: About Erosion QLD

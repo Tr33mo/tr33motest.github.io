@@ -21,7 +21,7 @@ Fast-growing, very drought-tolerant, frost-tolerant, salt-tolerant, inundation-t
 
 A good candidate for full sun regeneration as it will allow native plants to establish and when the Vetiver is shaded out it will weaken and die, therefore not crowding out native species in the long term. Vetiver can be planted within 50cm-1m of crops and will not compete due to the downward nature of the roots. Perfect for landslips, cuts, gullies, overflows, dam walls, or silt capture. It's possible to repel cane toads from water sources when planted effectively.
 
-Can be used to phtyoremidate and bioaccumulate nitrogen, phosphorous, metals, antibiotics from grey and black water, either in reedbed or bunded systems or floated on pontoons and grown hydroponically.
+Can be used to phtyoremediate and bioaccumulate nitrogen, phosphorous, metals, antibiotics from grey and black water, either in reedbed or bunded systems or floated on pontoons and grown hydroponically.
 
 Requires specific planting/propagation techniques and at least 50% sun.
 

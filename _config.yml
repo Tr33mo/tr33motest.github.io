@@ -10,6 +10,7 @@ collections:
     output: true
 plugins:
 - jekyll-paginate
+- jekyll-sitemap
 # Google Analytics
 google_analytics: UA-127140939-1
 highlighter: rouge

@@ -9,7 +9,7 @@ google-ID: 'UA-127140939-1'
 menu:
 - {name: 'Why Vetiver?', folder: 'pages', file: 'why.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
-- {name: 'Propagation Guide', folder: 'documentation', file: 'prop.html'}
+- {name: 'Propagation Guide', folder: 'pages', file: 'prop.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer

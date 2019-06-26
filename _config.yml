@@ -1,26 +1,59 @@
-# Site Build Settings
-
-# jekyll-paginate configuration
-paginate:            5
-
-# Build settings
-markdown:            kramdown
-highlighter:         rouge
-permalink:           none
-plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
-
-sass:
-  sass_dir: assets/css
-  style: :nested
-
-# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Erosion QLD"
-description:	       "Vetiver in the Sunshine Coast Hinterland, Queensland"
-author:                "Evan"
-
-repository: Tr33mo/tr33mo.github.io
-github: [metadata]
-
-# RSS 2.0 can be used instead of Atom by uncommenting following two lines
-#feed:
-#  path: rss-feed.xml
+---
+title: Erosion QLD
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+plugins:
+- jekyll-paginate
+- jekyll-sitemap
+# Google Analytics
+google_analytics: UA-127140939-1
+highlighter: rouge
+paginate: 5
+paginate_path: "/page:num/"
+icon: "/assets/img/vetavatar.png"
+favicon: "/assets/img/favicon.ico"
+#og_image: "/assets/img/og.jpg"
+lang: en
+description: Growing and supplying low-cost Vetiver Grass (Chrysopogon zizanioides) with free advice for your small projects based on the Sunshine Coast Hinterland, Queensland, Australia. <br /><br />Click the blog post titles, the top menu, or the 'Why' Page to find out more.
+url: https:\\www.erosionqld.com.au
+color: "#333333"
+#baseurl:"" 
+css: "/assets/css/style.css"
+navigation:
+- name: Why Vetiver
+  url: "/why"
+  title: Why use Vetiver?
+  external: false
+- name: Propagation Guide
+  url: "/prop"
+  title: Vetiver Propagation Guide for the subtropics
+  external: false
+- name: About
+  url: "/about"
+  title: About Erosion QLD
+  external: false
+- name: Contact
+  url: "/contact"
+  title: Email me
+  external: false
+- name: Vetiver.org
+  url: "http://www.vetiver.org/"
+  title: Visit the official Vetiver website
+  external: true
+- name: Vetiver Facebook
+  url: "https://www.facebook.com/groups/vetivernetwork/"
+  title: Chat with other Vetiver users
+  external: true
+authors:
+- id: evan
+  name: Evan Millwood
+footer: Copyright © Evan Millwood 2019 |
+  <a href="https://neige-theme.com" target="_blank" rel="noopener">Neige Theme</a>
+  | Published with <a href="https://jekyllrb.com/" target="_blank" rel="noopener">Jekyll</a>
+  | <a href="http://www.users.on.net/~evan.millwood/seqlderosion/" target="_blank" rel="noopener">Old Site</a>

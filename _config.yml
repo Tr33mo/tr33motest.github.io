@@ -19,6 +19,7 @@ description:	       "Vetiver in the Sunshine Coast Hinterland, Queensland"
 author:                "Evan"
 
 repository: Tr33mo/tr33mo.github.io
+github: [metadata]
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:

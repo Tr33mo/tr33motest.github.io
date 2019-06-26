@@ -13,7 +13,7 @@ ___
 
 A [**sterile**](http://www.vetiver.org/AUS_weediness.pdf), clumping grass to 1.5m high and 1m wide usually used specifically in an unbroken hedgerow system for erosion control. The extremely deep vertical roots and stiff stems can increase shear strength of soil, slow water and force silt out behind it, backing up soil/organic matter and growing from higher nodes over time. Some hedges are at least 100 years old and have created 2m high terraces behind them.
 
-Fast-growing, very drought-tolerant, frost-tolerant, salt-tolerant, inundation-tolerant, pH range-tolerant, heavy metal-tolerant, will regenerate from the crown after a fire, and can be cut 2-3 times a year for bulk sterile mulch. The roots are aromatic and used for essential oil. Leaves can be used for fodder, handicrafts, and roof thatching.
+Fast-growing, very drought-tolerant, frost-tolerant, salt-tolerant, inundation-tolerant, pH range-tolerant, heavy metal-tolerant, will regenerate from the crown after a fire, and can be cut 2-4 times a year for bulk sterile mulch. The roots are aromatic and used for essential oil. Leaves can be used for fodder, handicrafts, and roof thatching.
 
 A good candidate for full sun regeneration as it will allow native plants to establish and when the Vetiver is shaded out it will weaken and die, therefore not crowding out native species in the long term. Vetiver can be planted within 50cm-1m of crops and will not compete due to the downward nature of the roots. Perfect for landslips, cuts, gullies, overflows, dam walls, or silt capture. It's possible to repel cane toads from water sources when planted effectively.
 
@@ -21,7 +21,7 @@ Can be used to phtyoremediate and bioaccumulate nitrogen, phosphorous, metals, a
 
 Requires specific planting/propagation techniques and at least 50% sun.
 
-A propagation pictorial guide for the subtropics can be found [here]({% post_url 2018-02-06-prop %}).
+A propagation pictorial guide for the subtropics can be found [here](/pages/prop.html).
 
 An extensive range of applications in PDF form can be found [here](http://www.vetiver.org/TVN_VS_GAL_HR%20/index.htm) or in photo form [here](https://picasaweb.google.com/112053823950476566695).
 

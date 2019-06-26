@@ -1,23 +1,26 @@
-<header>
-  <nav role="navigation">
-    <a href="{{ '/' | relative_url }} " title="{{ site.title }}" class="blog-icon">
-      <img src="{{ site.url }}{{ site.icon }}" alt="Logo of {{ site.title }}">
-    </a>
-    {% if site.navigation %}
-    <ul>
-      {% for link in site.navigation %}
-        <li class="item">
-          <a
-            href="{{ link.url }}"
-            title="{{ link.title }}"
-            target="{% if link.external %}_blank{% endif %}"
-            rel="{% if link.external %}noopener{% endif %}"
-          >
-            {{ link.name }}
-          </a>
-        </li>
-      {% endfor %}
-    </ul>
-    {% endif %}
+<header class="site-header">
+  <h3 class="site-title">
+    <a href="{{ site.github.url }}/">{{ site.title }}</a>
+  </h3>
+  <nav class="menu-list">
+    {% for item in site.data.settings.menu %}
+      <a href="{{ site.github.url }}/{{ item.folder }}/{{ item.file }}" class="menu-link">{{ item.name }}</a>
+    {% endfor %}
+
+    {% for item in site.data.settings.social %}
+      <a href="{{ item.link }}" class="menu-link" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
+    {% endfor %}
   </nav>
+  <div class="dropdown">
+    <button class="dropbtn"><i class="fa fa-bars" aria-hidden="true"></i></button>
+    <div class="dropdown-content">
+      {% for item in site.data.settings.menu %}
+        <a href="{{ site.github.url }}/pages/{{ item.file }}" class="menu-link">{{ item.name }}</a>
+      {% endfor %}
+
+      {% for item in site.data.settings.social %}
+        <a href="{{ item.link }}" class="menu-link" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
+      {% endfor %}
+    </div>
+  </div>
 </header>

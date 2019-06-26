@@ -1,9 +1,11 @@
 ---
 layout: post
-date: 2018-10-06
 title: "Greywater with Vetiver in a reed bed system"
 description: "Small scale greywater treatment with BioChar"
-author: evan
+author: "Evan"
+categories: 
+tags: [greywater]
+image: greywater.jpg
 ---
 Vetiver grass is an excellent [phytoremediation](http://www.vetiver.org/TVN_VS_GAL_HR%20/VS_Effluent.pdf) plant candidate for treating grey or blackwater.
 

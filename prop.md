@@ -4,9 +4,9 @@ title: Propagation Guide
 permalink: /prop/
 description: "A guide to simply dividing Vetiver"
 ---
-[![alt text](https://i.imgur.com/A5MvkaAl.jpg "Dividing Vetiver into 'slips'")](https://u.teknik.io/hPbYD.jpg)
-
 A downloadable [**PDF pictorial guide**](https://u.teknik.io/l8IcH.pdf) (10.3MB) with high resolution images to illustrate how to easily divide and propagate Vetiver.
+
+[![alt text](https://i.imgur.com/A5MvkaAl.jpg "Dividing Vetiver into 'slips'")](https://u.teknik.io/hPbYD.jpg)
 
 [![alt text](https://i.imgur.com/WCBORkWl.jpg "Digging Vetiver for propagation")](https://u.teknik.io/KnYJ6.jpg)
 

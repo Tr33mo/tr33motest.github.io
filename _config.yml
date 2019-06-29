@@ -8,9 +8,9 @@ description: Growing and supplying low-cost Vetiver Grass (Chrysopogon zizanioid
   A description for your page.
 
 # URL including protocol for your site (use "http://localhost:4000" if developing locally)
-url: "http://localhost:4000"
+url: "https://www.erosionqld.com.au"
 # Subpath if necessary
-baseurl: ""
+#baseurl: ""
 
 theme: kiko-minus
 

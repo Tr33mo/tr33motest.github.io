@@ -25,8 +25,8 @@ nav:
     url: "/about"
   - name: "Propagation"
     url: "/prop"
-  - name: "Archive"
-    url: "/archive"
+# - name: "Archive"
+#   url: "/archive"
   - name: "Contact"
     url: "/contact"
 

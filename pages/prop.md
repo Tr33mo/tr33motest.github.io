@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "Propagation Guide"
+title: Propagation Guide
+permalink: /prop/
 description: "A guide to simply dividing Vetiver"
 ---
 <div style="text-align:center" markdown="1">

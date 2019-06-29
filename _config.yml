@@ -1,59 +1,134 @@
----
-title: Erosion QLD
-timezone: UTC
-collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
+#################
+# Site settings #
+#################
+encoding: utf-8
+lang: en-US
+title: "Erosion QLD"
+description: Growing and supplying low-cost Vetiver Grass (Chrysopogon zizanioides) with free advice for your small projects based on the Sunshine Coast Hinterland, Queensland, Australia.
+  A description for your page.
+
+# URL including protocol for your site (use "http://localhost:4000" if developing locally)
+url: "http://localhost:4000"
+# Subpath if necessary
+baseurl: ""
+
+theme: kiko-minus
+
+# Custom user stylesheet
+# css:
+#   src: "/assets/css/user-style.css"
+
+# List of links to show in the navbar with display name and URL
+nav:
+  - name: "Why"
+    url: "/why"
+  - name: "About"
+    url: "/about"
+  - name: "Propagation"
+    url: "/prop"
+  - name: "Archive"
+    url: "/archive"
+  - name: "Contact"
+    url: "/contact"
+
+# Refer to https://posativ.org/isso/docs/configuration/client for config options
+isso:
+  enabled: false
+  prefix: ""
+  script_src: ""
+  css: "true"
+  lang: "en"
+  reply_to_self: false
+  require_author: "false"
+  require_email: "false"
+  max_comments_top: "10"
+  max_comments_nested: "5"
+  reveal_on_click: "10"
+  avatar: "false"
+  # avatar_bg: "#f0f0f0"
+  # avatar_fg: "#9abf88 #5698c4 #e279a3 #9163b6"
+  vote: "true"
+  vote_levels: ""
+  feed: "false"
+
+fathom:
+  enabled: false
+  script_src: "https://analytics.example.tld/tracker.js"
+  site_id: "SITEID"
+
+# Copyright details for footer
+copyright:
+  year: 2019
+  name: "Evan Millwood"
+
+
+############
+# Excludes #
+############
+exclude:
+  - README.md
+  - screenshot.png
+  - LICENSE
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - kiko-minus.gemspec
+  - .gitignore
+  - .gitlab-ci.yml
+  - .jekyll-cache
+  - .image-optim-cache
+  - "*.gem"
+  - assets/img_archive
+
+
+###########
+# Plugins #
+###########
 plugins:
-- jekyll-paginate
-- jekyll-sitemap
-# Google Analytics
-google_analytics: UA-127140939-1
-highlighter: rouge
-paginate: 5
-paginate_path: "/page:num/"
-icon: "/assets/img/vetavatar.png"
-favicon: "/assets/img/favicon.ico"
-#og_image: "/assets/img/og.jpg"
-lang: en
-description: Growing and supplying low-cost Vetiver Grass (Chrysopogon zizanioides) with free advice for your small projects based on the Sunshine Coast Hinterland, Queensland, Australia. <br /><br />Click the blog post titles, the top menu, or the 'Why' Page to find out more.
-url: https:\\www.erosionqld.com.au
-color: "#333333"
-#baseurl:"" 
-css: "/assets/css/style.css"
-navigation:
-- name: Why Vetiver
-  url: "/why"
-  title: Why use Vetiver?
-  external: false
-- name: Propagation Guide
-  url: "/prop"
-  title: Vetiver Propagation Guide for the subtropics
-  external: false
-- name: About
-  url: "/about"
-  title: About Erosion QLD
-  external: false
-- name: Contact
-  url: "/contact"
-  title: Email me
-  external: false
-- name: Vetiver.org
-  url: "http://www.vetiver.org/"
-  title: Visit the official Vetiver website
-  external: true
-- name: Vetiver Facebook
-  url: "https://www.facebook.com/groups/vetivernetwork/"
-  title: Chat with other Vetiver users
-  external: true
-authors:
-- id: evan
-  name: Evan Millwood
-footer: Copyright © Evan Millwood 2019 |
-  <a href="https://neige-theme.com" target="_blank" rel="noopener">Neige Theme</a>
-  | Published with <a href="https://jekyllrb.com/" target="_blank" rel="noopener">Jekyll</a>
-  | <a href="http://www.users.on.net/~evan.millwood/seqlderosion/" target="_blank" rel="noopener">Old Site</a>
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-paginate-v2
+  - jekyll-sitemap
+  - jekyll-zopfli
+  - jekyll-image-optim
+
+
+################
+# Gem settings #
+################
+# jekyll-pagination-v2
+pagination:
+  enabled: true
+  per_page: 5
+  permalink: "/page/:num/"
+  title: ":title"
+  limit: 0
+  sort_field: "date"
+  sort_reverse: true
+
+# jekyll-seo-tag
+#twitter:
+#  username: ""
+author: "Evan Millwood"
+#social:
+#  name: "Your Name"
+#  links:
+#    - https://twitter.com/YourTwitter
+#   - https://www.facebook.com/YourFacebook
+#    - https://www.linkedin.com/in/YourLinkedin
+#    - https://github.com/YourGithub
+
+# jekyll-image-optim
+image_optim:
+  archive_dir: "assets/img_archive"
+  cache_file: ".image-optim-cache"
+  image_glob: "assets/img/**/*.{gif,png,jpg,jpeg}"
+
+
+###################
+# Jekyll settings #
+###################
+sass:
+  style: compressed
+permalink: pretty
+timezone: America/Los_Angeles

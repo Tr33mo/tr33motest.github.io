@@ -19,7 +19,7 @@ remote_theme: ask616/kiko-minus-gh
 
 # List of links to show in the navbar with display name and URL
 nav:
-  - name: "Why"
+  - name: "**Why**"
     url: "/why"
   - name: "About"
     url: "/about"

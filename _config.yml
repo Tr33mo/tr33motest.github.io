@@ -5,13 +5,13 @@ encoding: utf-8
 lang: en-US
 title: "Erosion QLD"
 description: Growing and supplying low-cost Vetiver Grass (Chrysopogon zizanioides) with free advice for your small projects based on the Sunshine Coast Hinterland, Queensland, Australia.
-
+ 
 # URL including protocol for your site (use "http://localhost:4000" if developing locally)
 url: "https://www.erosionqld.com.au"
 # Subpath if necessary
-#baseurl: ""
+#baseurl: "/blog"
 
-theme: kiko-minus
+remote_theme: ask616/kiko-minus-gh
 
 # Custom user stylesheet
 # css:
@@ -75,9 +75,7 @@ exclude:
   - .gitignore
   - .gitlab-ci.yml
   - .jekyll-cache
-  - .image-optim-cache
   - "*.gem"
-  - assets/img_archive
 
 
 ###########
@@ -86,42 +84,28 @@ exclude:
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
-  - jekyll-paginate-v2
+  - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-zopfli
-  - jekyll-image-optim
 
 
 ################
 # Gem settings #
 ################
-# jekyll-pagination-v2
-pagination:
-  enabled: true
-  per_page: 5
-  permalink: "/page/:num/"
-  title: ":title"
-  limit: 0
-  sort_field: "date"
-  sort_reverse: true
+# jekyll-paginate
+paginate: 5
+paginate_path: "/page/:num/"
 
 # jekyll-seo-tag
-#twitter:
-#  username: ""
+twitter:
+  username: ""
 author: "Evan Millwood"
 #social:
-#  name: "Your Name"
+# name: "Your Name"
 #  links:
 #    - https://twitter.com/YourTwitter
-#   - https://www.facebook.com/YourFacebook
-#    - https://www.linkedin.com/in/YourLinkedin
+#    - https://www.facebook.com/YourFacebook
+#   - https://www.linkedin.com/in/YourLinkedin
 #    - https://github.com/YourGithub
-
-# jekyll-image-optim
-image_optim:
-  archive_dir: "assets/img_archive"
-  cache_file: ".image-optim-cache"
-  image_glob: "assets/img/**/*.{gif,png,jpg,jpeg}"
 
 
 ###################

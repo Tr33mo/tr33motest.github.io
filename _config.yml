@@ -5,10 +5,9 @@ encoding: utf-8
 lang: en-US
 title: "Erosion QLD"
 description: Growing and supplying low-cost Vetiver Grass (Chrysopogon zizanioides) with free advice for your small projects based on the Sunshine Coast Hinterland, Queensland, Australia.
-  A description for your page.
 
 # URL including protocol for your site (use "http://localhost:4000" if developing locally)
-url: "https://www.erosionqld.com.au"
+url: "http://tr33mo.github.io"
 # Subpath if necessary
 #baseurl: ""
 

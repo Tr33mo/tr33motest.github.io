@@ -96,9 +96,9 @@ paginate: 5
 paginate_path: "/page/:num/"
 
 # jekyll-seo-tag
-twitter:
-  username: ""
-author: "Evan Millwood"
+#twitter:
+#  username: ""
+# author: ""
 #social:
 # name: "Your Name"
 #  links:

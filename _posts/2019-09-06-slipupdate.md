@@ -32,5 +32,5 @@ Site 2 has also started to catch collapsing soil which is often overlooked in na
 
 Anecdotally, for a poor planting location, the Vetiver and a Hoop Pine are performing well together giving hope for Vetiver as a tool to save soil in revegetation projects based around native plants.
 
-[![alt text](https://i.imgur.com/Nc7Eugmm.jpg "Site 2")](https://u.teknik.io/gEJMX.jpg)
+[![alt text](https://i.imgur.com/Nc7Eugml.jpg "Site 2")](https://u.teknik.io/gEJMX.jpg)
 

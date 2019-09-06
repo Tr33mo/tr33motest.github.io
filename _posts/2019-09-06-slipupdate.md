@@ -8,7 +8,7 @@ tags:
 ---
 Spring has sprung and maintenance of slip sites through landcare work has begun. This allows access to the small trial sites of Vetiver and some quick photos.
 
-Site 1 in based in North Maleny on Bridge Creek and is a large landslip site that has continuing debris slides due to heavy rainfall and spring activity pushing on the soil. The hedges were cut and larger weeds were removed inside of the trial. A majority of the Vetiver plants are still growing in the mud and performing slower than the top rows in the better conditions.
+Site 1 is based in North Maleny on Bridge Creek and is a large landslip site that has continuing debris slides due to heavy rainfall and spring activity pushing on the soil. The hedges were cut and larger weeds were removed inside of the trial area. A majority of the Vetiver plants are still growing in the mud and performing slower than the top rows in the better/drier conditions.
 
 [![alt text](https://i.imgur.com/L2jQf9ql.jpg "Site 1")](https://u.teknik.io/deReA.jpg)
 
@@ -16,7 +16,7 @@ Site 1 in based in North Maleny on Bridge Creek and is a large landslip site tha
 
 [![alt text](https://i.imgur.com/zAEbzTrl.jpg "Site 1")](https://u.teknik.io/vmEQB.jpg)
 
-Site 2 is also based on Bridge Creek in North Maleny but is lower down and is positioned inside of a large historical landslip with spring pressure on the other side of a road cut. The Vetiver here will hopefully prevent loss of the road and is part of a large rainforest planting to help stabilise other areas of the site.
+Site 2 is also based on Bridge Creek in North Maleny but is lower down in the catchment and is positioned inside of a large historical landslip with spring pressure on the other side of a road cut. The Vetiver here will hopefully prevent loss of the road and is part of a large rainforest planting to help stabilise other areas of the site.
 
 [![alt text](https://i.imgur.com/xObk7iul.jpg "Site 2")](https://u.teknik.io/XfeqF.jpg)
 

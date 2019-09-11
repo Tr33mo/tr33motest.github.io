@@ -15,3 +15,11 @@ This was trimmed with a serrated grass hand sickle with minor weeding between ro
 [![alt text](https://i.imgur.com/7Ld8sODl.jpg "Site 2")](https://u.teknik.io/wEpMc.jpg)
 
 [![alt text](https://i.imgur.com/Br5YH5Ml.jpg "Site 2")](https://u.teknik.io/2Amz6.jpg)
+
+(Editor's Note 11/9/19: New photos added)
+
+[![alt text](https://i.imgur.com/jVS8Pb7l.jpg "Site 2")](https://u.teknik.io/AnE4K.jpg)
+
+[![alt text](https://i.imgur.com/49uwKoel.jpg "Site 2")](https://u.teknik.io/UFu2q.jpg)
+
+[![alt text](https://i.imgur.com/qAP0xmhl.jpg "Site 2")](https://u.teknik.io/4cIXo.jpg)

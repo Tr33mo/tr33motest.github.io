@@ -27,6 +27,8 @@ nav:
     url: "/prop"
 # - name: "Archive"
 #   url: "/archive"
+  - name: "Buy"
+    url: "/buy"
   - name: "Contact"
     url: "/contact"
 

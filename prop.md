@@ -6,7 +6,7 @@ description: "A guide to simply dividing Vetiver"
 ---
 ___
 
-A downloadable [**PDF pictorial guide**](https://u.teknik.io/l8IcH.pdf) (10.3MB) with high resolution images to illustrate how to easily divide and propagate Vetiver.
+A downloadable [**PDF pictorial guide**](/assets/Vetiver Propagation subtropics.pdf) (10.3MB) with high resolution images to illustrate how to easily divide and propagate Vetiver.
 
 ___
 
